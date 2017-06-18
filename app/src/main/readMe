@@ -1,0 +1,3 @@
+- in now playing fragment:
+create 1- 5 buttons when user clicks on last button it will create new button and dynamically will be added to
+horizontal view
